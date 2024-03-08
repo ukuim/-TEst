@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/UserPage",
+    "pages/Page",
+    "pages/propPage",
+    "pages/ObPage",
+    "pages/ImagePage"
+  ]
+}
